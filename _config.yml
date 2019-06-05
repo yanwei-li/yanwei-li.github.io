@@ -11,8 +11,8 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "AIer"
-sidebar-avatar: /img/avatar_m.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "My name is Yanwei Li (李彦玮), who is focusing on Artificial Intelligence and Computer Vision. I'm currently a master student in Institute of Automation, Chinese Academy of Sciences."
+sidebar-avatar: /img/My_self.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
