@@ -7,7 +7,7 @@ author:     Yanwei Li				# 作者
 header-img: img/Transparent_1.jpg 	#这篇文章标题背景图片
 catalog: false 						# 是否归档
 ---
-
+>
 >  <span style="color:red"> News:</span> One paper accepted by **CVPR 2019**, Long Beach, USA  
 >
 
