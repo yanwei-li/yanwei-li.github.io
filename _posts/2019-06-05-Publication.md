@@ -10,8 +10,7 @@ catalog: false 						# 是否归档
 
 >  <span style="color:red"> News:</span> One paper accepted by **CVPR 2019**, Long Beach, USA
 
-### Learnable Tree Filter for Structure-preserving Feature Transform 
-Lin Song*, ** Yanwei Li* **, Zeming Li, Gang Yu, Hongbin Sun, Jian Sun, Nanning Zheng
-
+### Learnable Tree Filter for Structure-preserving Feature Transform  
+Lin Song\*, **Yanwei Li\***, Zeming Li, Gang Yu, Hongbin Sun, Jian Sun, Nanning Zheng  
 Submitted to **NeurIPS**, 2019.
-***
+---
