@@ -8,5 +8,5 @@ header-img: img/Transparent_1.jpg 	#这篇文章标题背景图片
 catalog: false 						# 是否归档
 ---
 
-> {<font color=red> News: One paper accepted by **CVPR 2019**, Long Beach, USA</font>}
+> <span style="color:red"> News: One paper accepted by **CVPR 2019**, Long Beach, USA</span>
 
