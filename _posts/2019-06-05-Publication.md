@@ -8,4 +8,4 @@ header-img: img/Transparent.jpg 	#这篇文章标题背景图片
 catalog: false 						# 是否归档
 ---
 
-<!-- > Accepted by **CVPR 2019**, Long Beach, USA -->
+> News: One paper accepted by **CVPR 2019**, Long Beach, USA
