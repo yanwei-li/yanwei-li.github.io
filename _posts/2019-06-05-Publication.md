@@ -9,7 +9,7 @@ catalog: false 						# 是否归档
 discription:   One paper accepted by **CVPR 2019**, Long Beach, USA
 ---
 
-> <span style="color:red"> News:</span> One paper accepted by **CVPR 2019**, Long Beach, USA.  
+> <span style="color:red"> News:</span> Our paper accepted by **CVPR 2019**, Long Beach, USA.  
 > <span style="color:red"> News:</span> Our paper accepted by **CVPR 2019** TRMTMCT Workshop, Long Beach, USA.  
 
 
@@ -22,7 +22,7 @@ Lin Song\*, **Yanwei Li\***, Zeming Li, Gang Yu, Hongbin Sun, Jian Sun, Nanning 
 Jiabin Zhang, Zheng Zhu, Wei Zou, Peng Li, Hu Su, **Yanwei Li**, Guan Huang  
 *Submitted to **ICCV**, 2019.*
 
-<h5> <span style="color:black">Attention-guided unified network for panoptic segmentation</span> </h5> [[paper]](https://arxiv.org/abs/1812.03904) [[code]]
+<h5> <span style="color:black">Attention-guided unified network for panoptic segmentation</span> </h5>[[paper]](https://arxiv.org/abs/1812.03904) [code]
 **Yanwei Li**, Xinze Chen, Zheng Zhu, Lingxi Xie, Guan Huang, Dalong Du, Xingang Wang  
 *<span style="color:red">Accepted</span> by **CVPR**, 2019*
 
