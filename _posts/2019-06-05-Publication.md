@@ -6,9 +6,10 @@ date:       2019-06-05 				# 时间
 author:     Yanwei Li				# 作者
 header-img: img/Transparent_1.jpg 	#这篇文章标题背景图片
 catalog: false 						# 是否归档
+discription:   One paper accepted by **CVPR 2019**, Long Beach, USA
 ---
-
-<span style="color:red"> News:</span> One paper accepted by **CVPR 2019**, Long Beach, USA  
+## News
+> <span style="color:red"> News:</span> One paper accepted by **CVPR 2019**, Long Beach, USA  
 <hr>
 
 #### Learnable Tree Filter for Structure-preserving Feature Transform  
