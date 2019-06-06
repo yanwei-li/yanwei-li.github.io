@@ -10,8 +10,8 @@ discription:   One paper accepted by **CVPR 2019**, Long Beach, USA
 ---
 
 > <span style="color:red"> News:</span> Our paper accepted by **CVPR 2019**, Long Beach, USA.  
+<!--more-->
 > <span style="color:red"> News:</span> Our paper accepted by **CVPR 2019** TRMTMCT Workshop, Long Beach, USA.  
-
 
 ## Conference Paper
 <h5> <span style="color:black">Learnable Tree Filter for Structure-preserving Feature Transform</span> </h5>
@@ -22,7 +22,7 @@ Lin Song\*, **Yanwei Li\***, Zeming Li, Gang Yu, Hongbin Sun, Jian Sun, Nanning 
 Jiabin Zhang, Zheng Zhu, Wei Zou, Peng Li, Hu Su, **Yanwei Li**, Guan Huang  
 *Submitted to **ICCV**, 2019.*
 
-<h5> <span style="color:black">Attention-guided unified network for panoptic segmentation</span> [[paper]](https://arxiv.org/abs/1812.03904) [code]</h5>
+<p><h5> <span style="color:black">Attention-guided unified network for panoptic segmentation</span> </h5> [[paper]](https://arxiv.org/abs/1812.03904) [code]</p>
 **Yanwei Li**, Xinze Chen, Zheng Zhu, Lingxi Xie, Guan Huang, Dalong Du, Xingang Wang  
 *<span style="color:red">Accepted</span> by **CVPR**, 2019*
 
