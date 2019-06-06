@@ -13,14 +13,14 @@ layout: default
         background-image: url('{{ site.baseurl }}/{% if page.header-img %}{{ page.header-img }}{% else %}{{ site.header-img }}{% endif %}')
     }
 
-    {% if page.header-mask %}
+    /* {% if page.header-mask %}
     header.intro-header.header-mask{
         width: 100%;
         height: 100%;
         position: absolute;
         background: rgba(0,0,0, {{ page.header-mask }});
     }
-    {% endif %}
+    {% endif %} */
 </style>
 <header class="intro-header" >
     <div class="header-mask"></div>
@@ -37,9 +37,9 @@ layout: default
                     {% comment %}
                         always create a h2 for keeping the margin , Hux
                     {% endcomment %}
-                    <!-- {% comment %} if page.subtitle {% endcomment %}
+                    {% comment %} if page.subtitle {% endcomment %}
                     <h2 class="subheading">{{ page.subtitle }}</h2>
-                    {% comment %} endif {% endcomment %} -->
+                    {% comment %} endif {% endcomment %}
                     <span class="meta">Updated by {% if page.author %}{{ page.author }}{% else %}{{ site.title }}{% endif %} on {{ page.date | date: "%B %-d, %Y" }}</span>
                 </div>
             </div>
