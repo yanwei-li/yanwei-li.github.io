@@ -10,9 +10,10 @@ catalog: false 						# 是否归档
 ---
 
 > <span style="color:red"> News:</span> Our paper accepted by **CVPR 2019**, Long Beach, USA.  
-> <span style="color:red"> News:</span> Our paper accepted by **CVPR 2019** TRMTMCT Workshop, Long Beach, USA.
+> <span style="color:red"> News:</span> Our paper accepted by **CVPR 2019** TRMTMCT Workshop, Long Beach, USA.  
 > <span style="color:red"> News:</span> We give an oral presentation in **ECCV 2018** COCO Workshop, Munich, Germany.
 <!--more-->  
+
 ## Conference Paper
 <h5> <span style="color:black">Learnable Tree Filter for Structure-preserving Feature Transform</span> </h5>
 Lin Song\*, **Yanwei Li\***, Zeming Li, Gang Yu, Hongbin Sun, Jian Sun, Nanning Zheng  
