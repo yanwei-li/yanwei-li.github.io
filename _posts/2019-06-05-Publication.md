@@ -10,11 +10,11 @@ discription:   One paper accepted by **CVPR 2019**, Long Beach, USA
 ---
 
 > <span style="color:red"> News:</span> One paper accepted by **CVPR 2019**, Long Beach, USA.  
-> <span style="color:red"> News:</span> Our paper accepted by **CVPR Workshop 2019**, Long Beach, USA.  
+> <span style="color:red"> News:</span> Our paper accepted by **CVPR 2019 TRMTMCT Workshop**, Long Beach, USA.  
 
 
 ## Conference Paper
-<h5> Learnable Tree Filter for Structure-preserving Feature Transform </h5>
+<h5> <span style="color:black">Learnable Tree Filter for Structure-preserving Feature Transform</span> </h5>
 Lin Song\*, **Yanwei Li\***, Zeming Li, Gang Yu, Hongbin Sun, Jian Sun, Nanning Zheng  
 *Submitted to **NeurIPS**, 2019.*
 
@@ -32,11 +32,11 @@ Jiabin Zhang, Zheng Zhu, Wei Zou, Peng Li, Hu Su, **Yanwei Li**, Guan Huang
 <hr>
 
 ## Competition and Workshop
-<h5>COCO 2018 Panoptic Challenge</h5>
-*<span style="color:red"> 2<sup>nd</sup> </span> place, Oral in **ECCV Workshop**, 2018.*  
+<h5>MicroSoft COCO 2018 Panoptic Challenge</h5>
 **Yanwei Li\***, Naiyu Gao\*, Chaoxu Guo, Xinze Chen, Qian Zhang, Guan Huang, Xin Zhao, Kaiqi Huang, Dalong Du, Chang Huang  
+*<span style="color:red"> 2<sup>nd</sup> </span> place, Oral in **ECCV** Workshop, 2018.*  
 
 <h5>State-aware Re-identification Feature for Multi-target Multi-camera Tracking</h5>
 Peng Li\* , Jiabin Zhang\* , Zheng Zhu\*, **Yanwei Li**, Lu Jiang, Guan Huang  
-*<span style="color:red">Accepted</span> by **CVPR RMTMCT Workshop**, 2019*
+*<span style="color:red">Accepted</span> by **CVPR** TRMTMCT Workshop, 2019*
 <hr>
