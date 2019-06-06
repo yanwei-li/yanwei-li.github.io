@@ -22,7 +22,7 @@ Lin Song\*, **Yanwei Li\***, Zeming Li, Gang Yu, Hongbin Sun, Jian Sun, Nanning 
 Jiabin Zhang, Zheng Zhu, Wei Zou, Peng Li, Hu Su, **Yanwei Li**, Guan Huang  
 *Submitted to **ICCV**, 2019.*
 
-<h5> <span style="color:black">Attention-guided unified network for panoptic segmentation</span> </h5>[[paper]](https://arxiv.org/abs/1812.03904) [code]
+<h5> <span style="color:black">Attention-guided unified network for panoptic segmentation</span> [[paper]](https://arxiv.org/abs/1812.03904) [code]</h5>
 **Yanwei Li**, Xinze Chen, Zheng Zhu, Lingxi Xie, Guan Huang, Dalong Du, Xingang Wang  
 *<span style="color:red">Accepted</span> by **CVPR**, 2019*
 
