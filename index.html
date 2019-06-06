@@ -1,11 +1,8 @@
 ---
 layout: page
-title: "Home"
-description: "My homepage"
-motto:"Stay hungary, Stay foolish."
+description: "My Homepage"
 ---
 
-Welcome to my homepage!
 
 <!-- {% for post in paginator.posts %}
 <div class="post-preview">
@@ -23,7 +20,7 @@ Welcome to my homepage!
         </div>
     </a>
     <p class="post-meta">
-        Updated on {{ post.date | date: "%B %-d, %Y" }}
+        Updated by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
     </p>
 </div>
 <hr>
