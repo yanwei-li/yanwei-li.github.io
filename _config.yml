@@ -26,8 +26,6 @@ sidebar-avatar: /img/My_self.jpg      # use absolute URL, seeing it's used in bo
 # #twitter_username:   qiubaiying
 
 
-
-
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
 permalink: pretty
