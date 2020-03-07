@@ -2,7 +2,7 @@
 title: Yanwei Li
 SEOTitle: Yanwei Li
 header-img: img/Transparent_1.jpg
-email: liyanwei2017@ia.ac.cn
+email: liyanwei2017 AT ia.ac.cn
 description: "Every failure is leading towards success."
 keyword: "Deep Learning, Computer Vision"
 # url: "http://yanwei-li.github.io"          # your host, for absolute URL
@@ -11,7 +11,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "I'm Yanwei Li (李彦玮)."
+# sidebar-about-description: "I'm Yanwei Li (李彦玮)."
 sidebar-avatar: /img/My_self.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
