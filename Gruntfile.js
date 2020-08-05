@@ -64,11 +64,10 @@ module.exports = function(grunt) {
     // Load the plugins.
     grunt.loadNpmTasks('grunt-contrib-uglify');
     grunt.loadNpmTasks('grunt-contrib-less');
-    // grunt.loadNpmTasks('grunt-banner');
+    grunt.loadNpmTasks('grunt-banner');
     grunt.loadNpmTasks('grunt-contrib-watch');
 
     // Default task(s).
-    // grunt.registerTask('default', ['uglify', 'less', 'usebanner']);
-    grunt.registerTask('default', ['uglify', 'less']);
+    grunt.registerTask('default', ['uglify', 'less', 'usebanner']);
 
 };
